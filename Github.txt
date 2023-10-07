@@ -1,12 +1,14 @@
 SUBIR PROJETO NO GITHUB PELA PRIMEIRA VEZ
-git init 
+git init
 git add .
-git commit -m "first commit" 
-git remote add origin LINK-DO-SEU-REPOSITORIO 
+git commit -m ""
+git config --global user.name"tavinho"
+git config --global user.email"jotavio250@gmail.com"
+git remote add origin link do repositorio
 git push -u origin master
 
 ATUALIZAR PROJETO NO GITHUB
 git init 
 git add .
-git commit -m "first commit" 
+git commit -m "atualização"
 git push -u origin master
